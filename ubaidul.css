@@ -1,0 +1,196 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a {
+    font-family: Arial;
+}
+
+.bond {
+    width: 1200px;
+    margin: 0px auto;
+    overflow: hidden;
+    padding: 17px 0;
+}
+.banner {
+    overflow: hidden;
+    height: auto;
+}
+
+.banner img {
+    
+    width: 100%;
+    object-fit: cover;
+    background-position: center;
+}
+
+
+#logo {
+    background: linear-gradient(to right, #e34b46 0%, #f65f58 100%);
+    overflow: hidden;
+}
+
+.header  {
+    text-align: center;
+    color: #403c39;
+    text-transform: capitalize;
+    font-size: 20;
+   
+    float: left;
+    font-style: bold;
+   
+}
+.header h1 {
+    font-family: 'Galada', cursive;
+    color: #000000
+}
+
+h1 {}
+
+.lll {
+  
+    float: right;
+   
+    font-family: Arial;
+}
+
+.lll a {
+    text-decoration: none;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 3px 10px;
+    transition: 0.3s;
+    display: inline-block;
+    text-transform: blod;
+    font-weight: 600;
+    font-size: 16px;
+    font-family: arial;
+    margin: 17px 20px;
+    overflow: hidden;
+}
+
+.lll a:hover {
+    overflow: hidden;
+    color: #000000
+}
+
+
+
+
+
+.area {
+    width: 1200px;
+    margin: 0px auto;
+    overflow: hidden;
+    padding: 0;
+}
+
+.box1 {
+    width: 100%;
+    overflow: hidden;
+   
+}
+
+
+.Shoes {
+    float: left;
+    text-align: center;
+    font-family: arial;
+    width: 350;
+    height: auto;
+    overflow: hidden;
+    border: 3px solid #203c65;
+    margin: 22px 22px;
+}
+
+.Shoes img {
+    width: 320px;
+    
+    padding: 6px -1px;
+    padding: 0 15;
+    height: auto;
+    border-bottom: 3px solid #203c65;
+}
+
+
+.Shoes p {
+    font-size: 15px;
+    
+    text-align: right;
+    font-weight: 700;
+    color: black;
+    
+    padding: 10px 15px;
+    border-bottom: 1px solid #0000004a;
+}
+.Shoes p span {
+    font-size: 17px;
+    font-weight: 700;
+    float: left;
+    /* border-right: 1px solid; */
+    color: #203c65;
+}
+
+
+
+
+.pic-soc {
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    object-fit: cover;
+    position: relative;
+    background-size: cover;
+    height: 800px;
+    background-image: url(offer.jpg);
+}
+
+.pic-soc:before {
+    content: "";
+    background: black;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    opacity: 0.68;
+}
+
+.pic-soc h2 {
+    position: absolute;
+    color: white;
+    font-size: 84px;
+    top: 50%;
+    font-family: arial;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.cr{
+
+}
+.cr img{
+
+}
+.footer {
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    background: black;
+}
+
+.footer p{
+    
+color: white;
+    
+margin: 80px 0;
+    
+font-size: 30px;
+}
+
+
